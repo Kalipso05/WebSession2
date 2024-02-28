@@ -1,0 +1,14 @@
+C:\Users\Kalipso\source\repos\WebSessionSecond\DataCenter\bin\Debug\DataCenter.dll.config
+C:\Users\Kalipso\source\repos\WebSessionSecond\DataCenter\bin\Debug\DataCenter.dll
+C:\Users\Kalipso\source\repos\WebSessionSecond\DataCenter\bin\Debug\DataCenter.pdb
+C:\Users\Kalipso\source\repos\WebSessionSecond\DataCenter\bin\Debug\EntityFramework.dll
+C:\Users\Kalipso\source\repos\WebSessionSecond\DataCenter\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kalipso\source\repos\WebSessionSecond\DataCenter\bin\Debug\EntityFramework.xml
+C:\Users\Kalipso\source\repos\WebSessionSecond\DataCenter\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kalipso\source\repos\WebSessionSecond\DataCenter\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Kalipso\source\repos\WebSessionSecond\DataCenter\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Kalipso\source\repos\WebSessionSecond\DataCenter\obj\Debug\DataCenter.csproj.AssemblyReference.cache
+C:\Users\Kalipso\source\repos\WebSessionSecond\DataCenter\obj\Debug\DataCenter.csproj.CoreCompileInputs.cache
+C:\Users\Kalipso\source\repos\WebSessionSecond\DataCenter\obj\Debug\DataCenter.csproj.CopyComplete
+C:\Users\Kalipso\source\repos\WebSessionSecond\DataCenter\obj\Debug\DataCenter.dll
+C:\Users\Kalipso\source\repos\WebSessionSecond\DataCenter\obj\Debug\DataCenter.pdb
